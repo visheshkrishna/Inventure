@@ -72,7 +72,7 @@ export default function Testimonials() {
         <div className="flex items-start justify-between mb-16">
           <div className="flex-1">
             <h2 className="text-4xl font-bold text-slate-900 mb-4">
-              520,000+ HAPPY USERS' LOVE
+              520,000+ HAPPY USERS&apos; LOVE
             </h2>
             <div className="flex items-center gap-3 mb-4">
               <svg className="w-6 h-6 text-slate-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -104,7 +104,7 @@ export default function Testimonials() {
                   className={`bg-white rounded-4xl p-4 shadow-sm hover:shadow-md transition-shadow ${getMessageWidth(testimonial.text)}`}
                 >
                   <div className="flex items-start gap-3">
-                    <div className="text-2xl text-slate-300 font-serif">"</div>
+                    <div className="text-2xl text-slate-300 font-serif">&quot;</div>
                     <div className="flex-1">
                       <p className="text-slate-700 mb-3 leading-relaxed text-sm">
                         {testimonial.text}

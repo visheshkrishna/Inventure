@@ -120,7 +120,7 @@ export default function ScrollingCompanies() {
         <div className="flex items-center space-x-8">
           <div className="text-center">
             <div className="text-4xl font-bold text-gray-900">400,000+</div>
-            <div className="text-sm text-gray-600">Today's new jobs</div>
+            <div className="text-sm text-gray-600">Today&apos;s new jobs</div>
           </div>
           <div className="w-px h-12 bg-gray-300"></div>
           <div className="text-center">

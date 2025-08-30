@@ -8,7 +8,7 @@ export default function Features() {
             The Future of Recruitment
           </h2>
           <p className="mt-4 text-lg text-slate-600 max-w-2xl mx-auto">
-            We're building a new model that combines three powerful elements to revolutionize how recruitment works.
+            We&apos;re building a new model that combines three powerful elements to revolutionize how recruitment works.
           </p>
         </div>
 
@@ -33,7 +33,7 @@ export default function Features() {
             </div>
             <p className="text-slate-600 leading-relaxed">
               This changes the traditional way recruiters get paid. Instead of just earning a commission on their own successful placements,
-               they also share in the overall company's success. This model incentivizes collaboration and teamwork, because the more successful the entire network is, the more everyone earns.
+               they also share in the overall company&apos;s success. This model incentivizes collaboration and teamwork, because the more successful the entire network is, the more everyone earns.
             </p>
           </div>
 
@@ -55,7 +55,7 @@ export default function Features() {
               />
             </div>
             <p className="text-slate-600 leading-relaxed">
-              This is designed to make the recruiter's job easier and more efficient. It handles the initial, time-consuming part of the process, like finding and attracting qualified candidates. This frees up the recruiter to focus on what matters most: building strong relationships with both candidates and clients to ensure a perfect match.
+              This is designed to make the recruiter&apos;s job easier and more efficient. It handles the initial, time-consuming part of the process, like finding and attracting qualified candidates. This frees up the recruiter to focus on what matters most: building strong relationships with both candidates and clients to ensure a perfect match.
             </p>
           </div>
 
@@ -77,7 +77,7 @@ export default function Features() {
               />
             </div>
             <p className="text-slate-600 leading-relaxed">
-              This creates an environment of shared knowledge and healthy competition. Recruiters can connect with their peers to get advice on difficult roles, share best practices, and learn from top performers. The "competitive" part motivates them to push themselves and achieve more, while the "community" aspect provides a support system.
+              This creates an environment of shared knowledge and healthy competition. Recruiters can connect with their peers to get advice on difficult roles, share best practices, and learn from top performers. The &quot;competitive&quot; part motivates them to push themselves and achieve more, while the &quot;community&quot; aspect provides a support system.
             </p>
           </div>
         </div>

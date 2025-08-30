@@ -163,7 +163,7 @@ export default function AIFeatures() {
                 </li>
                 <li className="flex items-start gap-3">
                   <div className="w-2 h-2 bg-green-600 rounded-full mt-2 flex-shrink-0"></div>
-                  <span className="text-slate-700">Keep tailoring your resume with AI and catch HR's eyes in 6 seconds</span>
+                  <span className="text-slate-700">Keep tailoring your resume with AI and catch HR&apos;s eyes in 6 seconds</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <div className="w-2 h-2 bg-green-600 rounded-full mt-2 flex-shrink-0"></div>
